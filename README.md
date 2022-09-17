@@ -5,8 +5,8 @@ The work was done by Phoebe Magdy, Abdel-Hady Sayed, and Mohamed Ali.
 Our workflow was as following:
 1- Preprocessing
 2- Choice of ML models and validation metrics
-3- Initial testing of chosen models
+3- Initial testing of the chosen models
 4- Hyperparameter tuning
 5- Cross validation
-6- Finding important feature
+6- Finding important features
 7- Generalizing our model for external test data
